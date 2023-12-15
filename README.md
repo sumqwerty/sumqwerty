@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on creating visualizations.
 
 - 🌱 I’m currently exploring operating systems and the working of the internet
 
